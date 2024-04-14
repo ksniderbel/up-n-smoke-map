@@ -1,0 +1,52 @@
+State,Recreational,RecYear,Medical,MedYear
+California,Yes,2016,Yes,1996
+Alaska,Yes,2014,Yes,1998
+Nevada,Yes,2016,Yes,1998
+Oregon,Yes,2014,Yes,1998
+Washington,Yes,2012,Yes,1998
+Maine,Yes,2016,Yes,1999
+Colorado,Yes,2012,Yes,2000
+Hawaii,No,n/a,Yes,2000
+Montana,Yes,2020,Yes,2004
+Vermont,Yes,2020,Yes,2004
+Rhode Island,Yes,2022,Yes,2006
+New Mexico,Yes,2021,Yes,2007
+Michigan,Yes,2018,Yes,2008
+Arizona,Yes,2020,Yes,2010
+New Jersey,Yes,2020,Yes,2010
+Delaware,Yes,2023,Yes,2011
+Connecticut,Yes,2021,Yes,2012
+Massachusetts,Yes,2016,Yes,2012
+Illinois,Yes,2019,Yes,2013
+Maryland,Yes,2022,Yes,2013
+New Hampshire,No,n/a,Yes,2013
+Minnesota,Yes,2023,Yes,2014
+New York,Yes,2021,Yes,2014
+Georgia,No,n/a,Yes,2015
+Louisiana,No,n/a,Yes,2015
+Arkansas,No,n/a,Yes,2016
+Florida,No,n/a,Yes,2016
+North Dakota,No,n/a,Yes,2016
+Ohio,Yes,2023,Yes,2016
+Pennsylvania,No,n/a,Yes,2016
+Iowa,No,n/a,Yes,2017
+West Virginia,No,n/a,Yes,2017
+Missouri,Yes,2022,Yes,2018
+Oklahoma,No,n/a,Yes,2018
+Utah,No,n/a,Yes,2018
+Mississippi,No,n/a,Yes,2022
+South Dakota,No,n/a,Yes,2020
+Virginia,Yes,2021,Yes,2020
+Alabama,No,n/a,Yes,2021
+Idaho,No,n/a,No,n/a
+Indiana,No,n/a,No,n/a
+Kansas,No,n/a,No,n/a
+Kentucky,No,n/a,Yes,2023
+Nebraska,No,n/a,No,n/a
+North Carolina,No,n/a,No,n/a
+South Carolina,No,n/a,No,n/a
+Tennessee,No,n/a,No,n/a
+Texas,No,n/a,No,n/a
+Wisconsin,No,n/a,No,n/a
+Wyoming,No,n/a,No,n/a
+District of Columbia,Yes,2015,Yes,2011
